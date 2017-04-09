@@ -1,0 +1,39 @@
+﻿Build started 11/21/2016 2:00:02 AM.
+     1>Project "C:\Users\Murphy User Account\Desktop\School\CS162\week8\WarGame\WarGame\WarGame.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Barbarian.cpp BlueMen.cpp Creatures.cpp HarryPotter.cpp LoserStackInterface.cpp Medusa.cpp Universe.cpp Vampire.cpp WarriorQInterface.cpp fantacymain.cpp
+         WarriorQInterface.cpp
+         Vampire.cpp
+         Universe.cpp
+         Medusa.cpp
+         LoserStackInterface.cpp
+         HarryPotter.cpp
+     1>c:\users\murphy user account\desktop\school\cs162\week8\wargame\wargame\harrypotter.cpp(79): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+         Creatures.cpp
+     1>c:\users\murphy user account\desktop\school\cs162\week8\wargame\wargame\creatures.cpp(183): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+         BlueMen.cpp
+         Barbarian.cpp
+         Generating Code...
+     1>c:\users\murphy user account\desktop\school\cs162\week8\wargame\wargame\universe.cpp(373): warning C4715: 'Universe::EngageInBattle' : not all control paths return a value
+         Compiling...
+         fantacymain.cpp
+     1>c:\users\murphy user account\desktop\school\cs162\week8\wargame\wargame\fantacymain.cpp(27): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Murphy User Account\Desktop\School\CS162\week8\WarGame\Debug\WarGame.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Murphy User Account\Desktop\School\CS162\week8\WarGame\Debug\WarGame.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Murphy User Account\Desktop\School\CS162\week8\WarGame\Debug\WarGame.lib" /MACHINE:X86 Debug\Barbarian.obj
+         Debug\BlueMen.obj
+         Debug\Creatures.obj
+         Debug\fantacymain.obj
+         Debug\HarryPotter.obj
+         Debug\LoserStackInterface.obj
+         Debug\Medusa.obj
+         Debug\Universe.obj
+         Debug\utilities.obj
+         Debug\Vampire.obj
+         Debug\WarriorQInterface.obj
+         WarGame.vcxproj -> C:\Users\Murphy User Account\Desktop\School\CS162\week8\WarGame\Debug\WarGame.exe
+     1>Done Building Project "C:\Users\Murphy User Account\Desktop\School\CS162\week8\WarGame\WarGame\WarGame.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.44

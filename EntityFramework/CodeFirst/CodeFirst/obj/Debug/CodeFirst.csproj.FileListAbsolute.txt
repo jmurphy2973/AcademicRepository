@@ -1,0 +1,15 @@
+c:\users\murphy user account\documents\visual studio 2015\Projects\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe.config
+c:\users\murphy user account\documents\visual studio 2015\Projects\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe
+c:\users\murphy user account\documents\visual studio 2015\Projects\CodeFirst\CodeFirst\bin\Debug\CodeFirst.pdb
+c:\users\murphy user account\documents\visual studio 2015\Projects\CodeFirst\CodeFirst\bin\Debug\EntityFramework.dll
+c:\users\murphy user account\documents\visual studio 2015\Projects\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\murphy user account\documents\visual studio 2015\Projects\CodeFirst\CodeFirst\bin\Debug\EntityFramework.xml
+c:\users\murphy user account\documents\visual studio 2015\Projects\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\murphy user account\documents\visual studio 2015\Projects\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csprojResolveAssemblyReference.cache
+c:\users\murphy user account\documents\visual studio 2015\Projects\CodeFirst\CodeFirst\obj\Debug\CodeFirst.exe
+c:\users\murphy user account\documents\visual studio 2015\Projects\CodeFirst\CodeFirst\obj\Debug\CodeFirst.pdb
+c:\users\murphy user account\documents\visual studio 2015\Projects\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Migrations.InitialModel.resources
+c:\users\murphy user account\documents\visual studio 2015\Projects\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.GenerateResource.Cache
+F:\EntityFramework\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe.config
+F:\EntityFramework\CodeFirst\CodeFirst\obj\Debug\CodeFirst.exe
+F:\EntityFramework\CodeFirst\CodeFirst\obj\Debug\CodeFirst.pdb
