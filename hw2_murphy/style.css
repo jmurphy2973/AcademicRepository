@@ -1,0 +1,53 @@
+table{
+    border-style:solid;
+}
+th{
+    font-weight:bold;
+    border-style:solid;
+}
+
+td{
+    border-style:solid;
+}
+
+.italic{
+    font-style:italic;
+}
+
+.outer-content{
+    background-color:pink;
+    width: 75%;
+    height:40px;
+    position:relative;
+    top: 20px;
+}
+
+div > div{
+    background-color:lightblue;
+    width: 75%;
+    height:50%;
+    position: relative;
+    top:25%;
+    left:12.5%;
+    text-align: center;
+}
+
+form{
+    position: relative;
+    top: 20px;
+}
+
+.div-input{
+    border: 1px solid;
+    border-color: #000;
+    padding:5px;
+    margin-top:16px!important;
+}
+
+tbody>tr:nth-of-type(odd){
+    background:lightblue;
+}
+
+tbody>tr:nth-of-type(even){
+    background:lightgreen;
+}

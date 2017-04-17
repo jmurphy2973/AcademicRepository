@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Web Development: Assignment 2</title>
+    <link rel="stylesheet" href="style.css" type="text/css">
+</head>
+<body>
+    <table>
+        <caption>The Table below Lists CNC Machine Information</caption>
+        <thead>
+            <tr>
+                <th></th>
+                <th>Make</th>
+                <th>Type</th>
+                <th>Model</th>
+                <th>Control</th>
+                <th>IP Address</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="italic">1128</td>
+                <td>WFL</td>
+                <td>Mill-Turn</td>
+                <td>M85</td>
+                <td>Siemens 840D</td>
+                <td>192.168.0.120</td>
+            </tr>
+            <tr>
+                <td class="italic">1125</td>
+                <td>WFL</td>
+                <td>Mill-Turn</td>
+                <td>M120</td>
+                <td>Siemens 840D</td>
+                <td>192.168.0.100</td>
+            </tr>
+            <tr>
+                <td class="italic">1126</td>
+                <td>Pietro Carnaghi</td>
+                <td>VTL</td>
+                <td>AP72</td>
+                <td>Siemens 840D</td>
+                <td>192.168.0.15</td>
+            </tr>
+            <tr>
+                <td class="italic">1242</td>
+                <td>Starrag</td>
+                <td>5-Axis Mill</td>
+                <td>STC1600</td>
+                <td>Siemens 840D</td>
+                <td>192.168.0.45</td>
+            </tr>
+            <tr>
+                <td class="italic">1245</td>
+                <td>Makino</td>
+                <td>5-Axis Mill</td>
+                <td>T4</td>
+                <td>Fanuc Pro 5</td>
+                <td>192.168.0.98</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <td colspan="2">Footer 1</td>
+                <td colspan="4">Footer 2</td>
+            </tr>
+        </tfoot>
+    </table>
+    <br />
+    <ol>
+        <li>Entity Framework</li>
+        <li>ASP.net</li>
+        <li>Node.js</li>
+        <li>Angular.js</li>
+    </ol>
+    <div id="div1" class="outer-content">
+        <div id="div2" class="inner-content">
+            This is the Inner Content. It should be centered in this div.
+        </div>
+    </div>
+    <br/>
+    <form action="http://classes.engr.oregonstate.edu/eecs/winter2015/cs290-400/tools/class-content/form_tests/check_request.php" method="get">
+        <fieldset>
+            <legend>Data Input Form - Get Request</legend>
+            <div class="div-input">
+                <label>Name:
+                    <input type="text" name="text_input" size="15" maxlength="50">
+                </label>
+            </div>
+            <div class="div-input">
+                <label>Number:
+                    <input type="number" name="numerical_input" size="15" maxlength="50">
+                </label>
+            </div>
+            <div class="div-input">
+                <label>Password:
+                    <input type="password" name="password_input" size="15" maxlength="50">
+                </label>
+            </div>
+            <br/>
+            <div>
+                <label>Select Item:</label>
+                <br/>
+                    <input type="radio" name="candy" value="Snickers">Snickers<br/>
+                    <input type="radio" name="candy" value="Skittles">Skittles<br/>
+                    <input type="radio" name="candy" value="Mentos">Mentos<br/>
+                <br/>
+                <input type="submit" value="Submit"/>
+            </div>
+        </fieldset>
+    </form>
+    <br/>
+    <form action="http://classes.engr.oregonstate.edu/eecs/winter2015/cs290-400/tools/class-content/form_tests/check_request.php" method="post">
+        <fieldset>
+            <legend>Data Input Form - Post Request</legend>
+            <div class="div-input">
+                <label>Name:
+                    <input type="text" name="text_input" size="15" maxlength="50">
+                </label>
+            </div>
+            <div class="div-input">
+                <label>Number:
+                    <input type="number" name="numerical_input" size="15" maxlength="50">
+                </label>
+            </div>
+            <div class="div-input">
+                <label>Password:
+                    <input type="password" name="password_input" size="15" maxlength="50">
+                </label>
+            </div>
+            <br/>
+            <div>
+                <label>Select Item:</label>
+                <br/>
+                <input type="radio" name="candy" value="Snickers">Snickers<br/>
+                <input type="radio" name="candy" value="Skittles">Skittles<br/>
+                <input type="radio" name="candy" value="Mentos">Mentos<br/>
+                <br/>
+                <input type="submit" value="Submit"/>
+            </div>
+        </fieldset>
+    </form>
+</body>
+</html>
